@@ -1,0 +1,14 @@
+flask
+numpy
+pandas
+scikit-learn
+django-model-utils
+torch
+requests
+Pillow
+gunicorn==20.0.4
+torchvision
+matplotlib
+seaborn
+plotly
+
