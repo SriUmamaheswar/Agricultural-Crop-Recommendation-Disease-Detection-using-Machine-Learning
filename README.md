@@ -13,19 +13,19 @@ A machine learning-based crop recommendation system that analyzes soil, climate,
 
 #### Home / landing page
 
-<img src="ML%20CODE/AgricultreCropRecommendation/static/images/core.jpg" alt="Home screen" width="100%" style="max-width: 800px; border-radius: 8px;">
+<img src="ML%20CODE/AgricultreCropRecommendation/static/images/core.jpg" alt="Home screen" width="80%" style="max-width: 600px; height: auto; border-radius: 8px;">
 
 #### Service selection and navigation
 
-<img src="ML%20CODE/AgricultreCropRecommendation/static/images/3.jpg" alt="Service cards" width="100%" style="max-width: 800px; border-radius: 8px;">
+<img src="ML%20CODE/AgricultreCropRecommendation/static/images/3.jpg" alt="Service cards" width="80%" style="max-width: 600px; height: auto; border-radius: 8px;">
 
 #### Performance comparison
 
-<img src="ML%20CODE/AgricultreCropRecommendation/static/images/plot1.png" alt="Model performance" width="100%" style="max-width: 800px; border-radius: 8px;">
+<img src="ML%20CODE/AgricultreCropRecommendation/static/images/plot1.png" alt="Model performance" width="80%" style="max-width: 600px; height: auto; border-radius: 8px;">
 
 #### App interface and input flow
 
-<img src="ML%20CODE/AgricultreCropRecommendation/static/images/farm_background.jpg" alt="App workflow" width="100%" style="max-width: 800px; border-radius: 8px;">
+<img src="ML%20CODE/AgricultreCropRecommendation/static/images/farm_background.jpg" alt="App workflow" width="80%" style="max-width: 600px; height: auto; border-radius: 8px;">
 
 ## Run locally
 
