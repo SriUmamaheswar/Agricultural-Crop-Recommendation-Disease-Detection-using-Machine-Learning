@@ -13,19 +13,19 @@ A machine learning-based crop recommendation system that analyzes soil, climate,
 
 #### Home / landing page
 
-![Home screen](ML%20CODE/AgricultreCropRecommendation/static/images/core.jpg)
+<img src="ML%20CODE/AgricultreCropRecommendation/static/images/core.jpg" alt="Home screen" width="100%" style="max-width: 800px; border-radius: 8px;">
 
 #### Service selection and navigation
 
-![Service cards](ML%20CODE/AgricultreCropRecommendation/static/images/3.jpg)
+<img src="ML%20CODE/AgricultreCropRecommendation/static/images/3.jpg" alt="Service cards" width="100%" style="max-width: 800px; border-radius: 8px;">
 
 #### Performance comparison
 
-![Model performance](ML%20CODE/AgricultreCropRecommendation/static/images/plot1.png)
+<img src="ML%20CODE/AgricultreCropRecommendation/static/images/plot1.png" alt="Model performance" width="100%" style="max-width: 800px; border-radius: 8px;">
 
 #### App interface and input flow
 
-![App workflow](ML%20CODE/AgricultreCropRecommendation/static/images/farm_background.jpg)
+<img src="ML%20CODE/AgricultreCropRecommendation/static/images/farm_background.jpg" alt="App workflow" width="100%" style="max-width: 800px; border-radius: 8px;">
 
 ## Run locally
 
