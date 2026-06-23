@@ -15,9 +15,9 @@ A machine learning-based crop recommendation system that analyzes soil, climate,
 
 <img src="ML%20CODE/AgricultreCropRecommendation/static/images/core.jpg" alt="Home screen" width="80%" style="max-width: 600px; height: auto; border-radius: 8px;">
 
-#### Service selection and navigation
+#### Our Services Overview
 
-<img src="ML%20CODE/AgricultreCropRecommendation/static/images/3.jpg" alt="Service cards" width="80%" style="max-width: 600px; height: auto; border-radius: 8px;">
+<img src="ML%20CODE/AgricultreCropRecommendation/static/images/s2.jpg" alt="Services overview - Crop, Fertilizer, Disease Detection" width="80%" style="max-width: 600px; height: auto; border-radius: 8px;">
 
 #### Performance comparison
 
